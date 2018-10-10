@@ -1,5 +1,5 @@
--- Spencer Schurk
--- sschurk@calpoly.edu
+-- Spencer Schurk, Jackson Goyette
+-- sschurk@calpoly.edu, jgoyette@calpoly.edu
 
 INSERT INTO TEACHERS VALUES('MACROSTIE', 'MIN', 101);
 INSERT INTO TEACHERS VALUES('COVIN', 'JEROME', 102);

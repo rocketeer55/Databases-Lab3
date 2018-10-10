@@ -1,6 +1,6 @@
 -- Spencer Schurk, Jackson Goyette
 -- sschurk@calpoly.edu, jgoyette@calpoly.edu
 
-DROP TABLE LIST;
+SOURCE STUDENTS-build-list.sql;
 
-DROP TABLE TEACHERS;
+SOURCE STUDENTS-build-teachers.sql;
