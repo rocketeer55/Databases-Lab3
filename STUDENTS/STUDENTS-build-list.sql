@@ -1,5 +1,5 @@
--- Spencer Schurk
--- sschurk@calpoly.edu
+-- Spencer Schurk, Jackson Goyette
+-- sschurk@calpoly.edu, jgoyette@calpoly.edu
 
 INSERT INTO LIST VALUES('CAR', 'MAUDE', 2, 101);
 INSERT INTO LIST VALUES('KRISTENSEN', 'STORMY', 6, 112);
