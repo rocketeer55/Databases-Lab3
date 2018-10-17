@@ -5,10 +5,6 @@
 -- Keep in the table only vehicles made in 1979 or 1980 with MPG of 20 or above,
 -- Vehicles that have MPG of 26MPG or better and have an engine with more than 110 horsepower,
 -- and vehicles that have 8 cylinders and accelerate to 60mph in less than 10 seconds.
--- DELETE FROM CARSDATA
--- WHERE NOT ((YEAR=(1979 OR 1980) AND MPG >= 20) 
--- OR ((MPG >=26) AND HORSEPOWER > 110 )
--- OR ((CYLINDERS = 8) AND ACCELERATE < 10));
 
 DELETE FROM CARSDATA
 WHERE NOT (((YEAR = 1979 OR YEAR = 1980) AND MPG >= 20)
